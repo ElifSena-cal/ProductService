@@ -1,0 +1,6 @@
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\bin\Debug\NorthwindEntites.dll
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\bin\Debug\NorthwindEntites.pdb
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\obj\Debug\NorthwindEntities.csprojAssemblyReference.cache
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\obj\Debug\NorthwindEntities.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\obj\Debug\NorthwindEntites.dll
+C:\Users\Sony\source\repos\NorthwindBusiness\NorthwindEntites\obj\Debug\NorthwindEntites.pdb
